@@ -15,7 +15,7 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a data professional with hands-on experience across **government, fintech, and space** — from building ETL pipelines on Azure Databricks at Hero FinCorp (in collaboration with BCG X), to delivering analytics that influenced ₹15Cr+ investment decisions at the Ministry of Education, to engineering a feedback management system at **ISRO's launch site in Sriharikota**.
+I'm a data professional with hands-on experience across **government, fintech, and space** — from building ETL pipelines on Databricks at Hero FinCorp (in collaboration with BCG X), to delivering analytics that influenced ₹11Cr+ investment decisions at the Ministry of Education, to engineering a feedback management system at **ISRO's launch site in Sriharikota**.
 
 I thrive in ambiguous environments, love working on end-to-end data problems, and am equally comfortable wrangling PySpark jobs and presenting insights to senior stakeholders.
 
@@ -69,7 +69,7 @@ I thrive in ambiguous environments, love working on end-to-end data problems, an
 
 ### Selected Achievements
 - 🔧 **Engineered an ETL pipeline** on Azure Databricks that eliminated **15 hrs/week** of manual CRM data entry and improved operational efficiency by **70%**
-- 📊 **Analyzed 35,000+ property listings** across 200+ localities, identifying **49% pricing gaps** that directly informed product strategy at Hero FinCorp
+- 📊 **Analyzed 31,000+ property listings** across 200+ localities, identifying **49% pricing gaps** that directly informed product strategy at Hero FinCorp
 - 🗺️ **Built geospatial dashboards** tracking education program metrics across 23,000+ schools at the Ministry of Education
 - 🛰️ **Delivered a mission-critical feedback system** to scientists and mission controllers at ISRO's SDSC-SHAR launch facility
 - 📈 Identified that **Grade D–G borrowers** (15% of portfolio) account for **42.1% of all defaults** in my credit risk dashboard project
@@ -134,10 +134,6 @@ Dr. Lankapalli Bullayya College of Engineering, Visakhapatnam | 2021 – 2025
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomikaharidas04&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikaharidas04&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 <p align="center">
   <i>"Without data, you're just another person with an opinion." – W. Edwards Deming</i>
